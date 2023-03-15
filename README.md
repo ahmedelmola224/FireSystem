@@ -1,6 +1,6 @@
 # FireSystem
 The system consist of master and slave
-The master have a password to log in ,it's cahangable as it save the password in the EEPROM ,when the user enter the password he/she has 2 options          1-Change password           2-Config
+The master have a password to log in ,it's cahangable as it save the password in the EEPROM ,when the user enter the password he/she has 2 options\n          1-Change password           2-Config
 The config option make the master mcu to take the heat and smoke configuration and send it back to the slave mcu to work upon it
 The slave is resonsible for sensors reading and showing it on Lcd 
 There's 3 state : 1-Fine state   2-Heat State   3-Fire state 
